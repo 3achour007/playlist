@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MBC 1" group-title="MBC", MBC 1
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
+#EXTINF:-1 tvg-id="MBC 2" group-title="MBC", MBC 2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+#EXTINF:-1 tvg-id="MBC 3" group-title="MBC", MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="MBC 4" group-title="MBC", MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-id="MBC 5" group-title="MBC", MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="MBC Action" group-title="MBC", MBC Action
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:-1 tvg-id="MBC Drama" group-title="MBC", MBC Drama
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1 tvg-id="MBC Drama+" group-title="MBC", MBC Drama+
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-id="MBC Masr" group-title="MBC", MBC Masr
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 2" group-title="MBC", MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-id="MBC Iraq" group-title="MBC", MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-id="MBC Max" group-title="MBC", MBC Max
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+#EXTINF:-1 tvg-id="MBC Persia" group-title="MBC", MBC Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 tvg-id="MBC Bollywood" group-title="MBC", MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-id="National Geo Ar" group-title="UAE", National Geo Ar
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="2M" group-title="Morocco", 2M
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-id="Alaoula" group-title="Morocco", Alaoula
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+#EXTINF:-1 tvg-id="Almaghribiya" group-title="Morocco", Almaghribiya
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="Alriyadiya" group-title="Morocco", Alriyadiya
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="Alta9afiya" group-title="Morocco", Alta9afiya
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="Alsadissa" group-title="Morocco", Alsadissa
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="Tamazight" group-title="Morocco", Tamazight
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="Medi 1" group-title="Morocco", Medi 1
+https://streaming.medi1tv.com/live/Medi1tvArabia.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Tele Maroc" group-title="Morocco", Tele Maroc
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:-1 tvg-id="M24" group-title="Morocco", M24
+http://79.137.106.241/live/smil:OutStream1.smil/chunklist_w114790244_b4500000_sleng.m3u8
+#EXTINF:-1 tvg-id="Abu Dahbi" group-title="UAE", Abu Dahbi
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Abu Dahbi Drama" group-title="UAE", Abu Dahbi Drama
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Emirat" group-title="UAE", Emirat
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Sharjah" group-title="UAE", Sharjah
+https://svs.itworkscdn.net/smc1live/smc1.smil//playlist.m3u8
+#EXTINF:-1 tvg-id="Sharqia" group-title="UAE", Sharqia
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dubai" group-title="UAE", Dubai
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dubai One" group-title="UAE", Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Noor Dubai" group-title="UAE", Noor Dubai
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dubai Zaman" group-title="UAE", Dubai Zaman
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Rotana Cinema" group-title="Saudi", Rotana Cinema
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+#EXTINF:-1 tvg-id="Rotana Classic" group-title="Saudi", Rotana Classic
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
+#EXTINF:-1 tvg-id="Rotana Drama" group-title="Saudi", Rotana Drama
+https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
+#EXTINF:-1 tvg-id="Rotana Khaliji" group-title="Saudi", Rotana Khaliji
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+#EXTINF:-1 tvg-id="Rotana Kids" group-title="Kids", Rotana Kids
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF:-1 tvg-id="Rotana Clip" group-title="Saudi", Rotana Clip
+/home/tarik/Documents/cv/rotana-clip.m3u8
+#EXTINF:-1 tvg-id="Rotana Music" group-title="Saudi", Rotana Music
+https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
+#EXTINF:-1 tvg-id="Rotana +" group-title="Saudi", Rotana +
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+#EXTINF:-1 tvg-id="CBC" group-title="Egypt", CBC
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1614305852/ei/3AU4YKOJEsinhwaN2KuoDw/ip/96.21.174.130/id/24sw2toY72I.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,hfr,playlist_duration,manifest_duration,maudio,vprv,go,itag,playlist_type/sig/AOq0QJ8wRAIgdhZ18_i_FaTbk1TH6A47GL5Lq9VeK_OdhY1Lp666nEECIFtw0aEar3H_Ln30DRYR8PY87doHeQ6XN8eibsIAlu1X/file/index.m3u8
+#EXTINF:-1 tvg-id="CBC Drama" group-title="Egypt", CBC Drama
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1614305852/ei/3AU4YOHNM42I2LYPnvmj0Ac/ip/96.21.174.130/id/EKbtdf9P610.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,hfr,playlist_duration,manifest_duration,maudio,vprv,go,itag,playlist_type/sig/AOq0QJ8wRQIhANh0DI1BX6fLApP8fC_gHJMAFyuAIbiVTgj3ieohLnDcAiADkYtipTgy8EW3xGTxHVRNCkR6nfUv2cKF7UsAIqYtXg==/file/index.m3u8
+#EXTINF:-1 tvg-id="CBC Extra" group-title="Egypt", CBC Extra
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1614305853/ei/3QU4YLPZE_OA2LYPk5WG2A0/ip/96.21.174.130/id/KJ1Ob7p4HR4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,hfr,playlist_duration,manifest_duration,maudio,vprv,go,itag,playlist_type/sig/AOq0QJ8wRQIhALEV5IW4KDREsBKqh8XQJ3XaHXPsV5I3QvBf897X9DF4AiACoAYrRsfUXy0KthzreGa-Qb-QW-5JDsQlYq6gM5eeiA==/file/index.m3u8
+#EXTINF:-1 tvg-id="Alkahera walnas" group-title="Egypt", Alkahera walnas
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1614305854/ei/3QU4YOjtN4eqhwapzr-YBQ/ip/96.21.174.130/id/snY6iiOHosA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,hfr,playlist_duration,manifest_duration,maudio,vprv,go,itag,playlist_type/sig/AOq0QJ8wRgIhAIuiVZqrPUB31k_fXnDOwdp_jIpofSTnFubeeDuocgJVAiEAk5R7Wjdqa0o-EzTyqYbh9cgpC_yYSNpflbW7B-VRqNk=/file/index.m3u8
+#EXTINF:-1 tvg-id="Alkahera walnas2" group-title="Egypt", Alkahera walnas2
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1614305854/ei/3gU4YJDTG5CihwbXu6jIDQ/ip/96.21.174.130/id/oFCfaagpMoI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,hfr,playlist_duration,manifest_duration,maudio,vprv,go,itag,playlist_type/sig/AOq0QJ8wRQIgMjTc_heRNnwmA9gFQ1SHs225174OqxwVYZ0hy9zNSioCIQDuwBZH_ma4cc-P1S_PTKlX2JUp-WbyAJ4cjBJwoC2WqA==/file/index.m3u8
+#EXTINF:-1 tvg-id="DMC" group-title="Egypt", DMC
+http://mixistv.link:8080/live/2adfX8J27j/so8hCb5svi/29.m3u8
+#EXTINF:-1 tvg-id="SpaceToon" group-title="Kids", SpaceToon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 tvg-id="Majid" group-title="Kids", Majid
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN" group-title="News", CGTN
+https://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 tvg-id="SkyNews" group-title="News", SkyNews
+https://stream.skynewsarabia.com/hls/sna_480.m3u8
+#EXTINF:-1 tvg-id="Al Hurra" group-title="News", Al Hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 tvg-id="Mekamiline" group-title="News", Mekamiline
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBC" group-title="News", CNBC
+https://cnbcarabia.hibridcdn.net/cnbc/cnbc_abr/cnbc/cnbc_480p/chunks.m3u8
+#EXTINF:-1 tvg-id="Alaan" group-title="Lebanon", Alaan
+https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
+#EXTINF:-1 tvg-id="Al arabiya" group-title="News", Al arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Al dofrah" group-title="News", Al dofrah
+https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
+#EXTINF:-1 tvg-id="LBC" group-title="Lebanon", LBC
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
+#EXTINF:-1 tvg-id="Taha" group-title="Kids", Taha
+https://media2.livaat.com/TAHA-TV/index.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" group-title="Kids", Cartoon Network
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-id="Tele Liban" group-title="Lebanon", Tele Liban
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+#EXTINF:-1 tvg-id="Oman" group-title="Oman", Oman
+https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Ajyal" group-title="Palestine", Ajyal
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera" group-title="News", Al Jazeera
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Doc" group-title="News", Al Jazeera Doc
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-id="Qatar" group-title="Qatar", Qatar
+https://qtv-i.akamaihd.net/hls/live/213233-b/QTV/master.m3u8
+#EXTINF:-1 tvg-id="BBC" group-title="News", BBC
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
+#EXTINF:-1 tvg-id="Gulli" group-title="Kids", Gulli
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+#EXTINF:-1 tvg-id="LCI" group-title="France", LCI
+http://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="TV5" group-title="France", TV5
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_3.m3u8
+#EXTINF:-1 tvg-id="TF1" group-title="France", TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="TMC" group-title="France", TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_896.m3u8
+#EXTINF:-1 tvg-id="TF1 Series" group-title="France", TF1 Series
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="TFX" group-title="France", TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="TVA" group-title="Canada", TVA
+https://tvalive.akamaized.net/hls/live/2012413/tva01/high_1080p/high_1080p.m3u8
+#EXTINF:-1 tvg-id="RDI" group-title="Canada", RDI
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8?hdnts=st=1614284252~exp=1614284372~acl=/hls/live/696614/cancbftprem*~hmac=aacfc7ff7535fedc0659c0d7d4a324820dbffd340ecc3f6d0cbe60b72d96a070
+#EXTINF:-1 tvg-id="Noovo" group-title="Canada", Noovo
+https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+#EXTINF:-1 tvg-id="Tele Quebec" group-title="Canada", Tele Quebec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:-1 tvg-id="Cima" group-title="Egypt", Cima
+http://145.239.95.202:8080/live/tdn/461816368427/10187.m3u8
