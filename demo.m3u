@@ -152,7 +152,7 @@ https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="TVA" group-title="Canada", TVA
 https://tvalive.akamaized.net/hls/live/2012413/tva01/high_1080p/high_1080p.m3u8
 #EXTINF:-1 tvg-id="RDI" group-title="Canada", RDI
-https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8?hdnts=st=1614351355~exp=1614351475~acl=/hls/live/696614/cancbftprem*~hmac=d13eab05047e90c51adb70aeafc3a5b1632d05aef0ef1d28e93f8e5bfe7e3cd3
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8?hdnts=st=1614354752~exp=1614354872~acl=/hls/live/696614/cancbftprem*~hmac=aafad06b9df99f27ef7f2e259c40aba93481e38aa1e998b985bb368276d77e39
 #EXTINF:-1 tvg-id="Noovo" group-title="Canada", Noovo
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-id="Tele Quebec" group-title="Canada", Tele Quebec
