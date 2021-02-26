@@ -84,15 +84,15 @@ https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b7248
 #EXTINF:-1 tvg-id="Rotana +" group-title="Saudi", Rotana +
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
 #EXTINF:-1 tvg-id="CBC" group-title="Egypt", CBC
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1614306728/ei/SAk4YLLxA4TR8gSmooDYCw/ip/96.21.174.130/id/24sw2toY72I.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,hfr,playlist_duration,manifest_duration,maudio,vprv,go,itag,playlist_type/sig/AOq0QJ8wRgIhAIQa9J_tAsXgH_3WGMuu7fIEfrnFqyvurO85RWhHMKGZAiEAtA3JZbw-m-PJaPRb2layRKRZwHJJyggu1et_lPN9kms=/file/index.m3u8
+http://mixistv.link:8080/live/2adfX8J27j/so8hCb5svi/22.m3u8
 #EXTINF:-1 tvg-id="CBC Drama" group-title="Egypt", CBC Drama
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1614306728/ei/SAk4YMWhJ5G0hwawkKzwCg/ip/96.21.174.130/id/EKbtdf9P610.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24007247/beids/9466587/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,hfr,playlist_duration,manifest_duration,maudio,vprv,go,itag,playlist_type/sig/AOq0QJ8wRQIhAP4decpEvEUDLuNdH6qm_qdxaluLgYFUUOhS0oEYPuWiAiBw59MTytD6CmVgsxR9MVAfF5nJNv2fhFRdVekj1TvnUw==/file/index.m3u8
+http://161.97.155.228:2020/streams/22_.m3u8
 #EXTINF:-1 tvg-id="CBC Extra" group-title="Egypt", CBC Extra
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1614306729/ei/SAk4YOP7OtjLhwaM35-QBg/ip/96.21.174.130/id/KJ1Ob7p4HR4.1/source/yt_live_broadcast/requiressl/yes/tx/23975653/txs/23975649,23975650,23975651,23975652,23975653,23975654/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/beids/9466587/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,tx,txs,hfr,playlist_duration,manifest_duration,maudio,vprv,go,itag,playlist_type/sig/AOq0QJ8wRgIhALZ2DmJu6eiB1WB3y-F5bxPvbdo_IE_vHp9IBZ7gdJ47AiEAw5EFtesgYh7OXdDQscBEfEt0Wm-yzbCvONsE3qudZTk=/file/index.m3u8
+http://mixistv.link:8080/live/2adfX8J27j/so8hCb5svi/24.m3u8
 #EXTINF:-1 tvg-id="Alkahera walnas" group-title="Egypt", Alkahera walnas
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1614306730/ei/Sgk4YK7ILK2Nhwbov5ToDg/ip/96.21.174.130/id/snY6iiOHosA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,hfr,playlist_duration,manifest_duration,maudio,vprv,go,itag,playlist_type/sig/AOq0QJ8wRAIgUDI6TZo7mgEbRWmFMf_VIkYZy_XBOlRBS39ZIzbuOvgCIBmOlLfWvJH5BSTs13CQ-OZTROvgw4dlyg2-IzL2FZZw/file/index.m3u8
+http://mixistv.link:8080/live/2adfX8J27j/so8hCb5svi/51.m3u8
 #EXTINF:-1 tvg-id="Alkahera walnas2" group-title="Egypt", Alkahera walnas2
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1614306731/ei/Swk4YPSxFYrrhwaI3b_4BA/ip/96.21.174.130/id/oFCfaagpMoI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,hfr,playlist_duration,manifest_duration,maudio,vprv,go,itag,playlist_type/sig/AOq0QJ8wRgIhAMSR0N7Mls1rapPARsgdDCCZxWDXeJ3HyUOoRfMI9tpVAiEAvVxuNzptcVAauniEglxew_CjMhYIx-5OHVshN-5rA8c=/file/index.m3u8
+http://mixistv.link:8080/live/2adfX8J27j/so8hCb5svi/52.m3u8
 #EXTINF:-1 tvg-id="DMC" group-title="Egypt", DMC
 http://mixistv.link:8080/live/2adfX8J27j/so8hCb5svi/29.m3u8
 #EXTINF:-1 tvg-id="SpaceToon" group-title="Kids", SpaceToon
@@ -152,7 +152,7 @@ https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-id="TVA" group-title="Canada", TVA
 https://tvalive.akamaized.net/hls/live/2012413/tva01/high_1080p/high_1080p.m3u8
 #EXTINF:-1 tvg-id="RDI" group-title="Canada", RDI
-https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8?hdnts=st=1614285129~exp=1614285249~acl=/hls/live/696614/cancbftprem*~hmac=5fe3ee935c824dd446ff957060e7e4d9b4ce0435ad39dcdf72b8e319729380ad
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8?hdnts=st=1614351355~exp=1614351475~acl=/hls/live/696614/cancbftprem*~hmac=d13eab05047e90c51adb70aeafc3a5b1632d05aef0ef1d28e93f8e5bfe7e3cd3
 #EXTINF:-1 tvg-id="Noovo" group-title="Canada", Noovo
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-id="Tele Quebec" group-title="Canada", Tele Quebec
