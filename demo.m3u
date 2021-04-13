@@ -157,5 +157,5 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8?hdnts
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-id="Tele Quebec" group-title="Canada", Tele Quebec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-#EXTINF:-1 tvg-id="Cima" group-title="Egypt", Cima
-http://145.239.95.202:8080/live/tdn/461816368427/10187.m3u8
+#EXTINF:-1 tvg-id="M6" group-title="Egypt", Cima
+https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
