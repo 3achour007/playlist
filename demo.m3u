@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Mosalsalat" group-title="Egypt", CBC
-https://m100.uqload.org/3rfksgxgnvw2q4drdj7ppi5qd6wvh6unmtbmbp7sc5lg4bt2xitvi4kmxepa/v.mp4
 #EXTINF:-1 tvg-id="MBC 1" tvg-logo="https://i.pinimg.com/736x/c0/68/90/c068902204154857bdcd49fbbcfbf373.jpg" group-title="MBC", MBC 1
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
 #EXTINF:-1 tvg-id="MBC 2" group-title="MBC", MBC 2
@@ -79,22 +77,10 @@ https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
 #EXTINF:-1 tvg-id="Rotana Kids" group-title="Kids", Rotana Kids
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
-#EXTINF:-1 tvg-id="Rotana Clip" group-title="Saudi", Rotana Clip
-/home/tarik/Documents/cv/rotana-clip.m3u8
 #EXTINF:-1 tvg-id="Rotana Music" group-title="Saudi", Rotana Music
 https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
 #EXTINF:-1 tvg-id="Rotana +" group-title="Saudi", Rotana +
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
-#EXTINF:-1 tvg-id="CBC Drama" group-title="Egypt", CBC Drama
-http://161.97.155.228:2020/streams/22_.m3u8
-#EXTINF:-1 tvg-id="CBC Extra" group-title="Egypt", CBC Extra
-http://mixistv.link:8080/live/2adfX8J27j/so8hCb5svi/24.m3u8
-#EXTINF:-1 tvg-id="Alkahera walnas" group-title="Egypt", Alkahera walnas
-http://mixistv.link:8080/live/2adfX8J27j/so8hCb5svi/51.m3u8
-#EXTINF:-1 tvg-id="Alkahera walnas2" group-title="Egypt", Alkahera walnas2
-http://mixistv.link:8080/live/2adfX8J27j/so8hCb5svi/52.m3u8
-#EXTINF:-1 tvg-id="DMC" group-title="Egypt", DMC
-http://mixistv.link:8080/live/2adfX8J27j/so8hCb5svi/29.m3u8
 #EXTINF:-1 tvg-id="SpaceToon" group-title="Kids", SpaceToon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1 tvg-id="Majid" group-title="Kids", Majid
@@ -129,8 +115,6 @@ https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Al Jazeera" group-title="News", Al Jazeera
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-id="Al Jazeera Doc" group-title="News", Al Jazeera Doc
-https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-id="Qatar" group-title="Qatar", Qatar
 https://qtv-i.akamaihd.net/hls/live/213233-b/QTV/master.m3u8
 #EXTINF:-1 tvg-id="BBC" group-title="News", BBC
@@ -157,5 +141,5 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8?hdnts
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-id="Tele Quebec" group-title="Canada", Tele Quebec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-#EXTINF:-1 tvg-id="M6" group-title="Egypt", Cima
+#EXTINF:-1 tvg-id="M6" group-title="Egypt", M6
 https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
