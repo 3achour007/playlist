@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Wataniya 1" tvg-name="Wataniya 1" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Tunisia-TV-1.png" ,Wataniya 1
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1619957635/ei/I0OOYNmxJuLthwaOpqrwDg/ip/96.22.177.178/id/VBzbbstMRnw.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r5---sn-8qu-t0ak.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/15580/mh/-5/mm/44/mn/sn-8qu-t0ak/ms/lva/mv/m/mvi/5/pcm2cms/yes/pl/19/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1619935699/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhALuVn8HN_vkGs10at12E_32Ohd2pqvbWseNvJG4Wql7HAiAatgo6e_kkitXhUep4wUErQy_ElafHhitzcq7-4FoRtA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AG3C_xAwRQIhANBsP0tHb4p4UAmdT7dMXwEFQhmNYFFOkgs7Z7weunmIAiBZrcEDSfCOidxZXieN9CT4MauCSZIQafBExJDQQupY1A%3D%3D/playlist/index.m3u8
+not found
 #EXTINF:-1 tvg-id="MBC 1" tvg-name="MBC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/MBC_1_Channel_Logo.png" ,MBC 1
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
 #EXTINF:-1 tvg-id="MBC 2" tvg-name="MBC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mbc-2.png" ,MBC 2
@@ -122,46 +122,46 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
 #EXTINF:-1 tvg-id="M6" tvg-name="M6" tvg-logo="https://static.wikia.nocookie.net/the-jh-movie-collection-official/images/a/a8/M6-tv-logo.png" ,M6
 https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8
 #EXTINF:-1 tvg-id="ENTV" tvg-name="ENTV" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/9_picture.png" ,ENTV
-https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwNjoxNDowMCBBTSZoYXNoX3ZhbHVlPW1yaVJWVDh5RDAwNGd0NHRPRHMvN2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwODowNTowOSBQTSZoYXNoX3ZhbHVlPXlhbm9hNnhtNlJLNy92VFZsTnN0N2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-id="Canal Algérie" tvg-name="Canal Algérie" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/4_picture.png" ,Canal Algérie
-https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwNjoxNDowMCBBTSZoYXNoX3ZhbHVlPW1yaVJWVDh5RDAwNGd0NHRPRHMvN2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwODowNTowOSBQTSZoYXNoX3ZhbHVlPXlhbm9hNnhtNlJLNy92VFZsTnN0N2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-id="Algérie 3" tvg-name="Algérie 3" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/1_picture.png" ,Algérie 3
-https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwNjoxNDowMCBBTSZoYXNoX3ZhbHVlPW1yaVJWVDh5RDAwNGd0NHRPRHMvN2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwODowNTowOSBQTSZoYXNoX3ZhbHVlPXlhbm9hNnhtNlJLNy92VFZsTnN0N2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-id="Algerie TV 4" tvg-name="Algerie TV 4" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/124_picture.png" ,Algerie TV 4
-https://cdn02.hta.dz/abr_htatv/TV_4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwNjoxNDowMCBBTSZoYXNoX3ZhbHVlPW1yaVJWVDh5RDAwNGd0NHRPRHMvN2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://cdn02.hta.dz/abr_htatv/TV_4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwODowNTowOSBQTSZoYXNoX3ZhbHVlPXlhbm9hNnhtNlJLNy92VFZsTnN0N2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-id="Algerie TV 5" tvg-name="Algerie TV 5" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/73_picture.png" ,Algerie TV 5
-https://cdn02.hta.dz/abr_htatv/TV_5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwNjoxNDowMCBBTSZoYXNoX3ZhbHVlPW1yaVJWVDh5RDAwNGd0NHRPRHMvN2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://cdn02.hta.dz/abr_htatv/TV_5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwODowNTowOSBQTSZoYXNoX3ZhbHVlPXlhbm9hNnhtNlJLNy92VFZsTnN0N2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-id="ALGERIE TV 6" tvg-name="ALGERIE TV 6" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/137_picture.png" ,ALGERIE TV 6
-https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwNjoxNDowMCBBTSZoYXNoX3ZhbHVlPW1yaVJWVDh5RDAwNGd0NHRPRHMvN2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwODowNTowOSBQTSZoYXNoX3ZhbHVlPXlhbm9hNnhtNlJLNy92VFZsTnN0N2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-id="TV7 ELMAARIFA" tvg-name="TV7 ELMAARIFA" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/138_picture.png" ,TV7 ELMAARIFA
-https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwNjoxNDowMCBBTSZoYXNoX3ZhbHVlPW1yaVJWVDh5RDAwNGd0NHRPRHMvN2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwODowNTowOSBQTSZoYXNoX3ZhbHVlPXlhbm9hNnhtNlJLNy92VFZsTnN0N2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-id="TV8 EDHAKIRA" tvg-name="TV8 EDHAKIRA" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/141_picture.png" ,TV8 EDHAKIRA
-https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwNjoxNDowMCBBTSZoYXNoX3ZhbHVlPW1yaVJWVDh5RDAwNGd0NHRPRHMvN2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwODowNTowOSBQTSZoYXNoX3ZhbHVlPXlhbm9hNnhtNlJLNy92VFZsTnN0N2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-id="EL BILAD" tvg-name="EL BILAD" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/126_picture.png" ,EL BILAD
-https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwNjoxNDowMCBBTSZoYXNoX3ZhbHVlPW1yaVJWVDh5RDAwNGd0NHRPRHMvN2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwODowNTowOSBQTSZoYXNoX3ZhbHVlPXlhbm9hNnhtNlJLNy92VFZsTnN0N2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-id="Beur TV" tvg-name="Beur TV" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/3_picture.png" ,Beur TV
-https://cdn02.hta.dz/abr_htatv/Beur_TV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwNjoxNDowMCBBTSZoYXNoX3ZhbHVlPW1yaVJWVDh5RDAwNGd0NHRPRHMvN2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://cdn02.hta.dz/abr_htatv/Beur_TV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwODowNTowOSBQTSZoYXNoX3ZhbHVlPXlhbm9hNnhtNlJLNy92VFZsTnN0N2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-id="Echorouk TV" tvg-name="Echorouk TV" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/6_picture.png" ,Echorouk TV
-https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwNjoxNDowMCBBTSZoYXNoX3ZhbHVlPW1yaVJWVDh5RDAwNGd0NHRPRHMvN2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwODowNTowOSBQTSZoYXNoX3ZhbHVlPXlhbm9hNnhtNlJLNy92VFZsTnN0N2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-id="El Djazairia One" tvg-name="El Djazairia One" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/7_picture.png" ,El Djazairia One
-https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwNjoxNDowMCBBTSZoYXNoX3ZhbHVlPW1yaVJWVDh5RDAwNGd0NHRPRHMvN2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwODowNTowOSBQTSZoYXNoX3ZhbHVlPXlhbm9hNnhtNlJLNy92VFZsTnN0N2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-id="Ennahar TV" tvg-name="Ennahar TV" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/8_picture.png" ,Ennahar TV
-https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwNjoxNDowMCBBTSZoYXNoX3ZhbHVlPW1yaVJWVDh5RDAwNGd0NHRPRHMvN2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwODowNTowOSBQTSZoYXNoX3ZhbHVlPXlhbm9hNnhtNlJLNy92VFZsTnN0N2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-id="Echorouk NEWS" tvg-name="Echorouk NEWS" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/18_picture.png" ,Echorouk NEWS
-https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwNjoxNDowMCBBTSZoYXNoX3ZhbHVlPW1yaVJWVDh5RDAwNGd0NHRPRHMvN2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwODowNTowOSBQTSZoYXNoX3ZhbHVlPXlhbm9hNnhtNlJLNy92VFZsTnN0N2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-id="BAHIA TV" tvg-name="BAHIA TV" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/123_picture.png" ,BAHIA TV
-https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwNjoxNDowMCBBTSZoYXNoX3ZhbHVlPW1yaVJWVDh5RDAwNGd0NHRPRHMvN2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwODowNTowOSBQTSZoYXNoX3ZhbHVlPXlhbm9hNnhtNlJLNy92VFZsTnN0N2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-id="EL HAYAT TV" tvg-name="EL HAYAT TV" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/129_picture.png" ,EL HAYAT TV
-https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwNjoxNDowMCBBTSZoYXNoX3ZhbHVlPW1yaVJWVDh5RDAwNGd0NHRPRHMvN2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwODowNTowOSBQTSZoYXNoX3ZhbHVlPXlhbm9hNnhtNlJLNy92VFZsTnN0N2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-id="El Heddaf TV" tvg-name="El Heddaf TV" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/15_picture.png" ,El Heddaf TV
-https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwNjoxNDowMCBBTSZoYXNoX3ZhbHVlPW1yaVJWVDh5RDAwNGd0NHRPRHMvN2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwODowNTowOSBQTSZoYXNoX3ZhbHVlPXlhbm9hNnhtNlJLNy92VFZsTnN0N2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-id="Lina TV" tvg-name="Lina TV" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/140_picture.png" ,Lina TV
-https://cdn02.hta.dz/abr_htatv/Lina_TV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwNjoxNDowMCBBTSZoYXNoX3ZhbHVlPW1yaVJWVDh5RDAwNGd0NHRPRHMvN2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://cdn02.hta.dz/abr_htatv/Lina_TV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwODowNTowOSBQTSZoYXNoX3ZhbHVlPXlhbm9hNnhtNlJLNy92VFZsTnN0N2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-id="Samira TV" tvg-name="Samira TV" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/10_picture.png" ,Samira TV
-https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwNjoxNDowMCBBTSZoYXNoX3ZhbHVlPW1yaVJWVDh5RDAwNGd0NHRPRHMvN2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwODowNTowOSBQTSZoYXNoX3ZhbHVlPXlhbm9hNnhtNlJLNy92VFZsTnN0N2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-id="ALANIS TV" tvg-name="ALANIS TV" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/132_picture.png" ,ALANIS TV
-https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwNjoxNDowMCBBTSZoYXNoX3ZhbHVlPW1yaVJWVDh5RDAwNGd0NHRPRHMvN2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwODowNTowOSBQTSZoYXNoX3ZhbHVlPXlhbm9hNnhtNlJLNy92VFZsTnN0N2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-id="El Djazair N1" tvg-name="El Djazair N1" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/139_picture.png" ,El Djazair N1
-https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwNjoxNDowMCBBTSZoYXNoX3ZhbHVlPW1yaVJWVDh5RDAwNGd0NHRPRHMvN2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwODowNTowOSBQTSZoYXNoX3ZhbHVlPXlhbm9hNnhtNlJLNy92VFZsTnN0N2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
 #EXTINF:-1 tvg-id="EL FADJR TV" tvg-name="EL FADJR TV" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/130_picture.png" ,EL FADJR TV
-https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwNjoxNDowMCBBTSZoYXNoX3ZhbHVlPW1yaVJWVDh5RDAwNGd0NHRPRHMvN2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
+https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDUvMDIvMjAyMSAwODowNTowOSBQTSZoYXNoX3ZhbHVlPXlhbm9hNnhtNlJLNy92VFZsTnN0N2c9PSZ2YWxpZG1pbnV0ZXM9MTA=
