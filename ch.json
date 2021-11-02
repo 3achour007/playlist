@@ -1,0 +1,38 @@
+[
+    {
+        "name"  :   "MBC 1",
+        "url"   :   "https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8",
+        "logo"  :   "https://i.ibb.co/xCf2BWJ/dmm9em0d-400x400.jpg",
+        "coutry":   "UAE"
+    },
+    {
+        "name"  :   "MBC 2",
+        "url"   :   "https://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8",
+        "logo"  :   "https://i.ibb.co/BjR0VQS/MBC-2-current-logo.png",
+        "coutry":   "UAE"
+    },
+    {
+        "name"  :   "MBC 3",
+        "url"   :   "https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8",
+        "logo"  :   "https://i.ibb.co/4ZQKd1n/mbc-3.png",
+        "coutry":   "UAE"
+    },
+    {
+        "name"  :   "MBC 4",
+        "url"   :   "https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8",
+        "logo"  :   "https://i.ibb.co/1bZQNk0/MBC-4-logo.png",
+        "coutry":   "UAE"
+    },
+    {
+        "name"  :   "MBC 5",
+        "url"   :   "https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8",
+        "logo"  :   "https://i.imgur.com/nBUsF6N.png",
+        "coutry":   "UAE"
+    },
+    {
+        "name"  :   "MBC Drama",
+        "url"   :   "https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8",
+        "logo"  :   "https://i.ibb.co/BcNmQkB/MBC-DRAMA-1.jpg",
+        "coutry":   "UAE"
+    }
+]
