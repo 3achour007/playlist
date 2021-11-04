@@ -1,5 +1,11 @@
 [
     {
+        "name"  :   "Nile Cinema",
+        "url"   :   "https://livestreaming5.onlinehorizons.net/hls-live/NTNNileCinema/_definst_/liveevent/livestream.m3u8",
+        "logo"  :   "http://tvtolive.com/wp-content/uploads/Nile-Cinema-tvtolive.com_.jpg",
+        "coutry":   "Egypt"
+    },
+    {
         "name"  :   "MBC 1",
         "url"   :   "https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8",
         "logo"  :   "https://i.ibb.co/xCf2BWJ/dmm9em0d-400x400.jpg",
