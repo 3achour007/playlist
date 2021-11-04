@@ -1,7 +1,7 @@
 [
     {
         "name"  :   "Nile Cinema",
-        "url"   :   "http://192.168.1.184/stream/nile.m3u8",
+        "url"   :   "http://192.168.1.184/stream/nile1.m3u8",
         "logo"  :   "http://tvtolive.com/wp-content/uploads/Nile-Cinema-tvtolive.com_.jpg",
         "coutry":   "Egypt"
     },
