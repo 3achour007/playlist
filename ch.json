@@ -13,6 +13,12 @@
     },
     {
         "name"  :   "MBC 2",
+        "url"   :   "http://192.168.1.184/stream/mbc2.m3u8",
+        "logo"  :   "https://upload.wikimedia.org/wikipedia/commons/c/ce/Mbc-2.png",
+        "coutry":   "UAE"
+    },
+    {
+        "name"  :   "MBC 2",
         "url"   :   "https://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8",
         "logo"  :   "https://i.ibb.co/BjR0VQS/MBC-2-current-logo.png",
         "coutry":   "UAE"
